@@ -1,1 +1,1 @@
-# Welcome to Commcepta Digital github page
+# Welcome to MosaicQ github page
