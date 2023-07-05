@@ -1,1 +1,1 @@
-# Welcome to MosaicQ github page
+# Welcome to mosaicQ github page
